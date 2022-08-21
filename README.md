@@ -1,4 +1,14 @@
-# chatty-journal-yyyymmdd
+# chatty-journal-20220821
+
+<details>
+<summary><h2 style="display:inline">今日の気づき</h2></summary>
+ <h3>無料クラウドサービスの盲点</h3>
+ 今日は新しく始めたばかりのhtml-Basic-Studyリポジトリの更新に没頭しました  
+ その際に感じたことを記載します。<br/>
+ ネットコンディションに影響を受けているのであらかじめお断りしておきます。
+ 
+</details>
+
 <hr/>
 <details>
 <summary><h2 style="display:inline">アコーディオンひな形</h2></summary>
